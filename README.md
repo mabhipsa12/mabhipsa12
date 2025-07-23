@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mabhipsa12&label=Profile%20views&color=0e75b6&style=flat" alt="mabhipsa12" /> </p>
 
-- 🔭 I’m currently working on **Credit Card deafault risk**
+- 🔭 I’m currently working on **Credit Card default risk**
 
 - 🌱 I’m currently learning **How to implement generative Ai in real Data Transformation**
 
